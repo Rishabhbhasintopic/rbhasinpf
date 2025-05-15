@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio of Rishabh Bhasin - Code & Circuit Craftsman",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "I'm Rishabh Bhasin, a tech creator passionate about building smart systems—from my own Linux distro (ELVORA) to AI assistants like LYRICS. I work across software, hardware, and AI to create tools that are powerful, privacy-focused, and user-friendly.",
 };
 
 export default function RootLayout({ children }) {
